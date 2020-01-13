@@ -1,0 +1,9 @@
+[package]
+name = "imagestack"
+version = "0.1.0"
+authors = ["fabianboesiger <boesiger.fabian@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+image = "0.22"
+num_cpus = "1.11"
